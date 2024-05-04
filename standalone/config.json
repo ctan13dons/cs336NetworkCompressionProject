@@ -1,0 +1,12 @@
+Server IP: 169.254.85.213
+Source Port for UDP: 9876
+Destination Port for UDP: 8765
+Preprobing TCP Port: 7777
+Postprobing TCP Port: 6666
+UDP Payload Size: 1000
+Inter-Measurement Time: 15
+Number of UDP Packets: 6000
+
+Destination Port for TCP Head SYN: 9999
+Destination Port for TCP Tail SYN: 8888
+TTL for UDP Packets: 255
