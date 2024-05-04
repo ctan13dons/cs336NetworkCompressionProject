@@ -17,7 +17,7 @@ The non-cooperative approach is run on one device and "pings" another device on 
 - On the client device, edit the config.json file with the ip address for your server device
 
 ### Execution
-*The server must be run first*
+*IMPORTANT: The server must be run first*
 
 On the server:
 ```
