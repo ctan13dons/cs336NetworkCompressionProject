@@ -9,12 +9,12 @@ The non-cooperative approach is run on one device and "pings" another device on 
 
 ## Part 1: Client/Server Application
 ### Installation
--Copy the client folder into a device on the network to be tested
--Copy the server folder into a different device on the same network
+- Copy the client folder into a device on the network to be tested
+- Copy the server folder into a different device on the same network
 
 ### Setup
--Run ```ip a``` on the server device, take note of the IPv4 address for the enp0s8 network interface
--On the client device, edit the config.json file with the ip address for your server device
+- Run ```ip a``` on the server device, take note of the IPv4 address for the enp0s8 network interface
+- On the client device, edit the config.json file with the ip address for your server device
 
 ### Execution
 On the server:
@@ -31,12 +31,12 @@ make
 
 ## Part 2: Standalone Application
 ### Installation
--Copy the standalone folder into a device on the network to be tested
--Make sure the server device is on the same network
+- Copy the standalone folder into a device on the network to be tested
+- Make sure the server device is on the same network
 
 ### Setup
--Run ```ip a``` on the server device, take note of the IPv4 address for the enp0s8 network interface
--On the client device, edit the config.json file with the ip address for your server device
+- Run ```ip a``` on the server device, take note of the IPv4 address for the enp0s8 network interface
+- On the client device, edit the config.json file with the ip address for your server device
 
 ### Execution 
 On the client: 
