@@ -46,3 +46,6 @@ On the client:
 make
 sudo ./standalone
 ```
+
+## Authors
+Calvin Tan [@ctan13dons](https://github.com/ctan13dons)
