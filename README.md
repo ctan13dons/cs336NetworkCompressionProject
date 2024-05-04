@@ -18,6 +18,7 @@ The non-cooperative approach is run on one device and "pings" another device on 
 
 ### Execution
 *The server must be run first*
+
 On the server:
 ```
 make
